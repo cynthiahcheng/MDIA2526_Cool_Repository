@@ -1,0 +1,30 @@
+
+h1 {
+  letter-spacing: 0.5em;
+  font-size: 57px;
+  text-align: center;
+  font-family: georgia;
+  font-weight: bold;
+  margin-top: 100px;
+}
+
+.welcome {
+  font-size: 30px;
+  text-align: center;
+  font-family: cursive;
+}
+
+.multicolumns {
+  text-align: justify;
+  column-count: 2;
+  column-gap: 2em;
+  font-size: 11pt;
+  margin-top: -15px;
+  font-family: :times;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#column2 {
+  margin-top: -3px;
+}
