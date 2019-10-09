@@ -1,0 +1,14 @@
+
+h1 {
+  letter-spacing: 0.5em;
+  font-size: 57px;
+  text-align: center;
+  font-family: georgia;
+  font-weight: bold;
+}
+
+.welcome {
+  font-size: 30px;
+  text-align: center;
+  font-family: cursive;
+}
