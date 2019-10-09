@@ -7,8 +7,4 @@ h1{
 .columns{
     column-count: 2;
     column-gap: 2em;
-        padding: 1em;
-}
-.first{
-    font-size: 60px;
 }
