@@ -1,0 +1,14 @@
+h1{
+    font-size: 150px;
+    font-family: 'Big Shoulders Text', cursive;
+    letter-spacing: 20px;
+    margin-left: 60px;
+}
+.columns{
+    column-count: 2;
+    column-gap: 2em;
+        padding: 1em;
+}
+.first{
+    font-size: 60px;
+}
