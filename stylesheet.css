@@ -1,11 +1,13 @@
 
 h1 {
-  letter-spacing: 0.5em;
+  letter-spacing: 0.2em;
   font-size: 57px;
   text-align: center;
-  font-family: georgia;
+  font-family: "Amiri", serif;
   font-weight: bold;
   margin-top: 100px;
+  -webkit-transform: scale(1, 1.6);
+  transform: scale(1, 1.6);
 }
 
 .welcome {
@@ -20,11 +22,12 @@ h1 {
   column-gap: 2em;
   font-size: 11pt;
   margin-top: -15px;
-  font-family: :times;
-  margin-left: 100px;
-  margin-right: 100px;
+  font-family: "Overpass", sans-serif;
+  letter-spacing: -0.15;
+  margin-left: 175px;
+  margin-right: 175px;
 }
 
 #column2 {
-  margin-top: -3px;
+  margin-top: -8.5px;
 }
