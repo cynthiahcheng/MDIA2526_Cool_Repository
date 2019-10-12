@@ -28,6 +28,22 @@ h1 {
   margin-right: 175px;
 }
 
+#initial-letter {
+  font-size: 36pt;
+  line-height: 44px;
+  float: left;
+  padding-right: 1px;
+}
+
 #column2 {
   margin-top: -8.5px;
+}
+
+img {
+  image-resolution: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  width: 65%;
+  display: block;
 }
