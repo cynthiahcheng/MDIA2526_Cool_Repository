@@ -6,6 +6,7 @@ h1 {
   font-family: "Amiri", serif;
   font-weight: bold;
   margin-top: 100px;
+  margin-bottom: -16px;
   -webkit-transform: scale(1, 1.6);
   transform: scale(1, 1.6);
 }
@@ -14,6 +15,7 @@ h1 {
   font-size: 30px;
   text-align: center;
   font-family: cursive;
+  margin-bottom: 45px;
 }
 
 .multicolumns {
@@ -26,6 +28,7 @@ h1 {
   letter-spacing: -0.15;
   margin-left: 175px;
   margin-right: 175px;
+  margin-bottom: 70px
 }
 
 #initial-letter {
@@ -37,6 +40,15 @@ h1 {
 
 #column2 {
   margin-top: -8.5px;
+}
+
+#author {
+  font-size: 11.5pt;
+  font-family: "Overpass", sans-serif;
+  font-weight: bold;
+  float: right;
+  margin-right: 175px;
+  margin-top: -70px;
 }
 
 img {
